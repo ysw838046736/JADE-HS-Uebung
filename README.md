@@ -2,4 +2,4 @@
 Testrepository zu Ãœbungszwecken
 Dies ist eine bessere Änderung.(SF)
 
-virus=病毒
+virus1=病毒
