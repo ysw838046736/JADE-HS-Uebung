@@ -1,4 +1,4 @@
 # JADE-HS-Uebung
-Testrepository zu Übungszwecken
-Dies ist eine bessere �nderung.(SF)
-
+Testrepository zu Ãœbungszwecken
+Dies ist eine bessere Änderung.(SF)
+哈哈
